@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 12px;
 }
 
 .tight-width-whitespace {
@@ -1032,6 +1032,9 @@ h4 {
     .bloc {
         padding-left: 0;
         padding-right: 0;
+    }
+    .text-center, img{
+        max-width: 375px;
     }
 }
 
