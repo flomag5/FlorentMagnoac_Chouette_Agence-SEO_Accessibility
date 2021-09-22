@@ -995,6 +995,10 @@ h4 {
         padding-left: 0;
         padding-right: 0;
     }
+    .text-center, img{
+        max-width: 100%;
+    }
+
     .a-block {
         padding: 0 10px;
     }
@@ -1034,7 +1038,7 @@ h4 {
         padding-right: 0;
     }
     .text-center, img{
-        max-width: 375px;
+        max-width: 100%;
     }
 }
 
